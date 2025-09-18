@@ -54,7 +54,7 @@ class Stack {
     }
 }
 
-public class stack {
+public class StackApp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Stack stack = new Stack(5);
